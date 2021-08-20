@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Jacob, my fav lang is Rust and Scala.
+</br>
 
-If you want to know more about me, welcome to visit [my blog](https://jacobbishopxy.github.io/).
+My name is Jacob, and I'm a fullstack developer and data engineer. My fav lang is Rust and Scala.
 
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=dark&hide=issues,contribs)
+</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=6&theme=dark)
-
-![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=dark)
+| You are very welcome to visit [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=dark&hide=issues,contribs) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=6&theme=dark) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=dark) |
 
 [![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=000000)](#)
 [![Scala](https://img.shields.io/badge/Scala-%20?&logo=scala&logoColor=white&color=d4302e)](#)
