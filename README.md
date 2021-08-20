@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Jacob, and I'm a full-stack & data engineer. My fav lang is Rust and Scala.
+My name is Jacob, my fav lang is Rust and Scala.
+
+If you want to know more about me, welcome to visit [my blog](https://jacobbishopxy.github.io/).
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=dark&hide=issues,contribs)
 
