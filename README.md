@@ -10,7 +10,7 @@ My name is Jacob, and I'm a fullstack developer and data engineer. My fav lang i
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=6&theme=dark) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=dark) |
 
-[![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=000000)](#)
+[![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=dea584)](#)
 [![Scala](https://img.shields.io/badge/Scala-%20?&logo=scala&logoColor=white&color=d4302e)](#)
 [![Golang](https://img.shields.io/badge/Golang-%20?&logo=go&logoColor=white&color=00a7d0)](#)
 [![Python](https://img.shields.io/badge/Python-%20?&logo=python&logoColor=white&color=3877ad)](#)
