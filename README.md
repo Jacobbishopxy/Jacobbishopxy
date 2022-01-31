@@ -2,7 +2,7 @@
 
 </br>
 
-My name is Jacob, and I'm a fullstack developer and data engineer. My fav lang is Rust and Scala.
+My name is Jacob. Currently, I'm a full-time fullstack developer and part-time data engineer.
 
 </br>
 
@@ -12,6 +12,7 @@ My name is Jacob, and I'm a fullstack developer and data engineer. My fav lang i
 
 [![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=dea584)](#)
 [![Scala](https://img.shields.io/badge/Scala-%20?&logo=scala&logoColor=white&color=d4302e)](#)
+[![Java](https://img.shields.io/badge/Java-%20?&logo=java&logoColor=white&color=b07219)](#)
 [![Golang](https://img.shields.io/badge/Golang-%20?&logo=go&logoColor=white&color=00a7d0)](#)
 [![Python](https://img.shields.io/badge/Python-%20?&logo=python&logoColor=white&color=3877ad)](#)
 [![Javascript](https://img.shields.io/badge/Javascript-%20?&logo=javascript&logoColor=white&color=efd81d)](#)
