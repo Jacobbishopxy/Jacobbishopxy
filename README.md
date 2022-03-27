@@ -2,7 +2,7 @@
 
 </br>
 
-My name is Jacob. Currently, I'm a full-time fullstack developer and part-time data engineer.
+My name is Jacob. I'm a full-time fullstack developer and a part-time data engineer.
 
 </br>
 
