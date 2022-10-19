@@ -10,7 +10,7 @@ My name is Jacob. I'm a full-time fullstack developer and a part-time data engin
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=8&theme=dark&exclude_repo=cyberbrick,ezx) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=dark&langs_count=8) |
 
-Lang of *Hello world!*
+Master lang of *Hello world!*
 
 [![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=dea584)](#)
 [![C++](https://img.shields.io/badge/C++-%20?&logo=c%2B%2B&logoColor=white&color=f34B7d)](#)
