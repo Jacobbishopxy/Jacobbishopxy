@@ -4,6 +4,7 @@
 
 My name is Jacob. I'm a full-time fullstack developer and a part-time data engineer.
 
+I'm currently working on [poma-notes](https://github.com/Jacobbishopxy/poma-notes) and [fx](https://github.com/Jacobbishopxy/fx).
 </br>
 
 | You are very welcome to visit [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=transparent&hide=issues,contribs) |
