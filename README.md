@@ -2,12 +2,12 @@
 
 </br>
 
-My name is Jacob. I'm a full-time fullstack developer and a part-time data engineer.
+My name is Jacob.
 
-I'm currently working on [poma-notes](https://github.com/Jacobbishopxy/poma-notes) and [fx](https://github.com/Jacobbishopxy/fx).
+I'm currently working on [poma-notes](https://github.com/Jacobbishopxy/poma-notes), [studies-ml](https://github.com/Jacobbishopxy/studies-ml) and [fx](https://github.com/Jacobbishopxy/fx).
 </br>
 
-| You are very welcome to visit [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=transparent&hide=issues,contribs) |
+| Welcome to [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=transparent&hide=issues,contribs) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=8&theme=transparent&exclude_repo=cyberbrick,ezx) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=8) |
 
