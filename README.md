@@ -2,11 +2,11 @@
 
 My name is Jacob. I'm currently working on:
 
-[![Poma notes](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Jacobbishopxy/poma-notes))
+[![Poma notes](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent)](https://github.com/Jacobbishopxy/poma-notes)
 
 My doodle:
 
-[![Jottings](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=jottings&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Jacobbishopxy/jottings))
+[![Jottings](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=jottings&theme=transparent)](https://github.com/Jacobbishopxy/jottings)
 
 ## Status
 
