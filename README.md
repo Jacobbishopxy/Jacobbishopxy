@@ -4,12 +4,63 @@
 
 My name is Jacob.
 
-I'm currently working on [poma-notes](https://github.com/Jacobbishopxy/poma-notes), [studies-ml](https://github.com/Jacobbishopxy/studies-ml) and [fx](https://github.com/Jacobbishopxy/fx).
+I'm currently working on:
+
+[![Poma notes](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Jacobbishopxy/poma-notes))
+
+My doodle:
+
+[![Jottings](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=jottings&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Jacobbishopxy/jottings))
+
+Irregularly updates:
+
+- [Studies ML](https://github.com/Jacobbishopxy/studies-ml)
+
+Projects:
+
+- [Queues & Executor](https://github.com/Jacobbishopxy/pqx)
+
+- [Arrow & Containers](https://github.com/Jacobbishopxy/fx)
+
+- [DataFrame & adaptors](https://github.com/Jacobbishopxy/fabrix)
+
+- [Toy Note](https://github.com/Jacobbishopxy/toy-note)
+
+- [Industrial chain & Graph](https://github.com/Jacobbishopxy/industrial-io)
+
+- [Fintech services](https://github.com/Jacobbishopxy/ubiquitous-alchemy) & [Web](https://github.com/Jacobbishopxy/cyberbrick)
+
+- [Scala GraphQL service](https://github.com/Jacobbishopxy/scala-graphql)
+
+Notes and studies:
+
+- [Studies of C++](https://github.com/Jacobbishopxy/studies-cpp)
+
+- [Rust Notes](https://github.com/Jacobbishopxy/note-rs)
+
+- [Studies of Rust](https://github.com/Jacobbishopxy/studies-rs)
+
+- [Scala Cats](https://github.com/Jacobbishopxy/herding-cats)
+
+Misc:
+
+- [LaTeX template](https://github.com/Jacobbishopxy/latex-template)
+
+- [Catch2 template](https://github.com/Jacobbishopxy/catch2-template)
+
+- [Zola template](https://github.com/Jacobbishopxy/github-io-zola-template)
+
+- [Scala template](https://github.com/Jacobbishopxy/scala-multi-project-template)
+
+- [Spark jottings](https://github.com/Jacobbishopxy/spark-jottings)
+
+- [Algorithms](https://github.com/Jacobbishopxy/too-many-litchis)
+
 </br>
 
 | Welcome to [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=transparent&hide=issues,contribs) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=8&theme=transparent&exclude_repo=cyberbrick,ezx) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=8) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=10&theme=transparent&exclude_repo=cyberbrick,ezx) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=10) |
 
 Master lang of *Hello world!*
 
