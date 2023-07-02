@@ -18,46 +18,35 @@ My doodle:
 
 Irregularly updates:
 
-- [Studies ML](https://github.com/Jacobbishopxy/studies-ml)
+- [Studies of ML](https://github.com/Jacobbishopxy/studies-ml)
 
 Projects:
 
 - [Queues & Executor](https://github.com/Jacobbishopxy/pqx)
-
 - [Arrow & Containers](https://github.com/Jacobbishopxy/fx)
-
 - [DataFrame & adaptors](https://github.com/Jacobbishopxy/fabrix)
-
 - [Toy Note](https://github.com/Jacobbishopxy/toy-note)
-
 - [Industrial chain & Graph](https://github.com/Jacobbishopxy/industrial-io)
-
 - [Fintech services](https://github.com/Jacobbishopxy/ubiquitous-alchemy) & [Web](https://github.com/Jacobbishopxy/cyberbrick)
-
 - [Scala GraphQL service](https://github.com/Jacobbishopxy/scala-graphql)
 
 Notes and studies:
 
-- [Studies of C++](https://github.com/Jacobbishopxy/studies-cpp)
-
-- [Rust Notes](https://github.com/Jacobbishopxy/note-rs)
-
-- [Studies of Rust](https://github.com/Jacobbishopxy/studies-rs)
-
+- [Haskell](https://github.com/Jacobbishopxy/studies-haskell)
+- [Machine Learning](https://github.com/Jacobbishopxy/studies-ml)
+- [The Bayesian Choice](https://github.com/Jacobbishopxy/tbc-notes)
+- [Principles of Mathematical Analysis](https://github.com/Jacobbishopxy/poma-notes)
+- [C++](https://github.com/Jacobbishopxy/studies-cpp)
+- [Rust](https://github.com/Jacobbishopxy/note-rs) & [Demo](https://github.com/Jacobbishopxy/studies-rs)
 - [Scala Cats](https://github.com/Jacobbishopxy/herding-cats)
 
 Misc:
 
 - [LaTeX template](https://github.com/Jacobbishopxy/latex-template)
-
 - [Catch2 template](https://github.com/Jacobbishopxy/catch2-template)
-
 - [Zola template](https://github.com/Jacobbishopxy/github-io-zola-template)
-
 - [Scala template](https://github.com/Jacobbishopxy/scala-multi-project-template)
-
 - [Spark jottings](https://github.com/Jacobbishopxy/spark-jottings)
-
 - [Algorithms](https://github.com/Jacobbishopxy/too-many-litchis)
 
 </br>
