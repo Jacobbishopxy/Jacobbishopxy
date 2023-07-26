@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-My name is Jacob. I'm currently working on:
+My name is Jacob. 
 
-[![Poma notes](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent)](https://github.com/Jacobbishopxy/poma-notes)
+I'm currently working on, and my doodle:
 
-My doodle:
-
-[![Jottings](https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=jottings&theme=transparent)](https://github.com/Jacobbishopxy/jottings)
+<a href="https://github.com/Jacobbishopxy/poma-notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent" />
+</a>
+<a href="https://github.com/Jacobbishopxy/jottings">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=jottings&theme=transparent" />
+</a>
 
 ## Status
 
