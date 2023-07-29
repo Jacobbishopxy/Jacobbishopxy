@@ -54,13 +54,17 @@ Misc:
 
 </br>
 
-Master lang of *Hello world!*
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-[![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=dea584)](#)
-[![C++](https://img.shields.io/badge/C++-%20?&logo=c%2B%2B&logoColor=white&color=f34B7d)](#)
-[![Scala](https://img.shields.io/badge/Scala-%20?&logo=scala&logoColor=white&color=d4302e)](#)
-[![Java](https://img.shields.io/badge/Java-%20?&logo=java&logoColor=white&color=b07219)](#)
-[![Golang](https://img.shields.io/badge/Golang-%20?&logo=go&logoColor=white&color=00a7d0)](#)
-[![Python](https://img.shields.io/badge/Python-%20?&logo=python&logoColor=white&color=3877ad)](#)
-[![Javascript](https://img.shields.io/badge/Javascript-%20?&logo=javascript&logoColor=white&color=efd81d)](#)
-[![Typescript](https://img.shields.io/badge/Typescript-%20?&logo=typescript&logoColor=white&color=2f74c0)](#)
+</br>  
+
+
