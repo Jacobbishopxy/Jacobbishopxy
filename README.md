@@ -2,20 +2,18 @@
 
 My name is Jacob. 
 
-I'm currently working on, and my doodle:
+I'm currently working on:
 
 <a href="https://github.com/Jacobbishopxy/poma-notes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent" />
 </a>
-<a href="https://github.com/Jacobbishopxy/jottings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=jottings&theme=transparent" />
-</a>
+
 
 ## Status
 
 | Welcome to [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=transparent&include_all_commits=true) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=10&theme=transparent&exclude_repo=cyberbrick,ezx) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=10) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=10&theme=transparent&exclude_repo=cyberbrick,ezx,jacobbishopxy.github.io,dockerfile,github-io-zola-template) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=10) |
 
 ## Leisure
 
@@ -29,18 +27,18 @@ Projects:
 - [Fintech services](https://github.com/Jacobbishopxy/ubiquitous-alchemy) & [Web](https://github.com/Jacobbishopxy/cyberbrick)
 - [Scala GraphQL service](https://github.com/Jacobbishopxy/scala-graphql)
 
+Mathematics:
+
+- [Machine Learning](https://github.com/Jacobbishopxy/studies-ml)
+- [The Bayesian Choice](https://github.com/Jacobbishopxy/tbc-notes)
+- [Principles of Mathematical Analysis](https://github.com/Jacobbishopxy/poma-notes)
+
 Languages:
 
 - [Haskell](https://github.com/Jacobbishopxy/studies-haskell)
 - [C++](https://github.com/Jacobbishopxy/studies-cpp)
 - [Rust](https://github.com/Jacobbishopxy/note-rs) & [Demo](https://github.com/Jacobbishopxy/studies-rs)
 - [Scala Cats](https://github.com/Jacobbishopxy/herding-cats)
-
-Mathematics:
-
-- [Machine Learning](https://github.com/Jacobbishopxy/studies-ml)
-- [The Bayesian Choice](https://github.com/Jacobbishopxy/tbc-notes)
-- [Principles of Mathematical Analysis](https://github.com/Jacobbishopxy/poma-notes)
 
 Templates:
 
@@ -51,6 +49,7 @@ Templates:
 
 Miscellaneous:
 
+- [Rust & C++ jottings](https://github.com/Jacobbishopxy/jottings)
 - [Spark jottings](https://github.com/Jacobbishopxy/spark-jottings)
 - [Algorithms](https://github.com/Jacobbishopxy/too-many-litchis)
 
