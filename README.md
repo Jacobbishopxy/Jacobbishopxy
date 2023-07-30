@@ -17,11 +17,7 @@ I'm currently working on, and my doodle:
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=10&theme=transparent&exclude_repo=cyberbrick,ezx) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=10) |
 
-## Works
-
-Irregularly updates:
-
-- [Studies of ML](https://github.com/Jacobbishopxy/studies-ml)
+## Leisure
 
 Projects:
 
@@ -33,22 +29,28 @@ Projects:
 - [Fintech services](https://github.com/Jacobbishopxy/ubiquitous-alchemy) & [Web](https://github.com/Jacobbishopxy/cyberbrick)
 - [Scala GraphQL service](https://github.com/Jacobbishopxy/scala-graphql)
 
-Notes and studies:
+Languages:
 
 - [Haskell](https://github.com/Jacobbishopxy/studies-haskell)
-- [Machine Learning](https://github.com/Jacobbishopxy/studies-ml)
-- [The Bayesian Choice](https://github.com/Jacobbishopxy/tbc-notes)
-- [Principles of Mathematical Analysis](https://github.com/Jacobbishopxy/poma-notes)
 - [C++](https://github.com/Jacobbishopxy/studies-cpp)
 - [Rust](https://github.com/Jacobbishopxy/note-rs) & [Demo](https://github.com/Jacobbishopxy/studies-rs)
 - [Scala Cats](https://github.com/Jacobbishopxy/herding-cats)
 
-Misc:
+Mathematics:
+
+- [Machine Learning](https://github.com/Jacobbishopxy/studies-ml)
+- [The Bayesian Choice](https://github.com/Jacobbishopxy/tbc-notes)
+- [Principles of Mathematical Analysis](https://github.com/Jacobbishopxy/poma-notes)
+
+Templates:
 
 - [LaTeX template](https://github.com/Jacobbishopxy/latex-template)
 - [Catch2 template](https://github.com/Jacobbishopxy/catch2-template)
 - [Zola template](https://github.com/Jacobbishopxy/github-io-zola-template)
 - [Scala template](https://github.com/Jacobbishopxy/scala-multi-project-template)
+
+Miscellaneous:
+
 - [Spark jottings](https://github.com/Jacobbishopxy/spark-jottings)
 - [Algorithms](https://github.com/Jacobbishopxy/too-many-litchis)
 
