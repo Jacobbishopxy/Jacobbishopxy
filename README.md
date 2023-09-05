@@ -22,6 +22,7 @@ I'm currently working on:
 
 ### Projects
 
+- [MiniFigures](https://github.com/Jacobbishopxy/minifigures)
 - [Queues & Executor](https://github.com/Jacobbishopxy/pqx)
 - [Arrow & Containers](https://github.com/Jacobbishopxy/fx)
 - [DataFrame & adaptors](https://github.com/Jacobbishopxy/fabrix)
