@@ -54,6 +54,7 @@ I'm currently working on:
 
 ### Miscellaneous
 
+- [Haskell doodles](https://github.com/Jacobbishopxy/doodles)
 - [Rust & C++ jottings](https://github.com/Jacobbishopxy/jottings)
 - [Spark jottings](https://github.com/Jacobbishopxy/spark-jottings)
 - [Algorithms](https://github.com/Jacobbishopxy/too-many-litchis)
