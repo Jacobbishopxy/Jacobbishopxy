@@ -2,17 +2,11 @@
 
 My name is Jacob. 
 
-I'm currently working on:
-
-<a href="https://github.com/Jacobbishopxy/poma-notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobbishopxy&repo=poma-notes&theme=transparent" />
-</a>
-
 ## Status
 
 | Welcome to [my blog](https://jacobbishopxy.github.io/). | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbishopxy&show_icons=true&theme=transparent) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=10&theme=transparent&exclude_repo=cyberbrick,ezx,jacobbishopxy.github.io) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=12) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbishopxy&layout=compact&langs_count=10&theme=transparent&exclude_repo=cyberbrick,ezx,jacobbishopxy.github.io) | ![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JacobBishop&layout=compact&theme=transparent&langs_count=10) |
 
 </br>
 
