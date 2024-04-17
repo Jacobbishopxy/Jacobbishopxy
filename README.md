@@ -16,6 +16,7 @@ My name is Jacob.
 
 ### Projects
 
+- [Haskell lib & tools](https://github.com/Jacobbishopxy/lotos)
 - [DataFetch lib Rs & Py](https://github.com/Jacobbishopxy/fastqx)
 - [MiniFigures](https://github.com/Jacobbishopxy/minifigures)
 - [Queues & Executor](https://github.com/Jacobbishopxy/pqx)
